@@ -1,0 +1,11 @@
+LOGIN_PAGE	TOP_HEADER	Already a member?
+LOGIN_PAGE	SUB_HEADER	Welcome back.
+LOGIN_PAGE	RIGHT_IMAGE	https://d2fedz0by71ckz.cloudfront.net/images/onboarding@2x.png
+LOGIN_PAGE	GOOGLE_SIGNIN	https://accounts.google.com/signin/oauth/
+LOGIN_PAGE	CRS_LOGIN	https://crs.com/login.aspx?ReturnURL=H2LCbM4z1jUMhKi3qvdiSEYjVXOqu10MfY2v2pRKKys=
+LOGIN_PAGE	EMAIL	abc@abc.com
+LOGIN_PAGE	PASSWORD	a
+LOGIN_PAGE	FORGOT_PASSWORD	https://radiusagent.com/forgot/enteremail
+LOGIN_PAGE	LOGIN_BUTTON	http://network.radiusagent.com/#/network
+LOGIN_PAGE	SIGNUP	https://radiusagent.com/signup
+LOGIN_PAGE	CHAT_ICON	Message Us
